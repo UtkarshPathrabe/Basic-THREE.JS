@@ -5,4 +5,4 @@ Basic THREE.JS
 
 Basic Three.JS project for learning purpose  
 
-![Main Page](./assets/main_page.png)  
+![Main Page](./assets/main_page.gif)  
